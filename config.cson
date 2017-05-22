@@ -1,0 +1,18 @@
+"*":
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "language-gfm"
+      "markdown-preview-plus"
+    ]
+    restorePreviousWindowsOnStart: false
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+  welcome:
+    showOnStartup: false
