@@ -1,4 +1,6 @@
 "*":
+  "autocomplete-python":
+    useKite: false
   core:
     audioBeep: false
     disabledPackages: [
@@ -14,5 +16,8 @@
   editor:
     showIndentGuide: true
     showInvisibles: true
+  "linter-pylama": {}
+  "linter-ui-default":
+    panelHeight: 69
   welcome:
     showOnStartup: false
